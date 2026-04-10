@@ -1,0 +1,15 @@
+.women-list {
+    width: 100%;
+
+    .women-left {
+        width: 45%;
+    }
+
+    .women-right {
+        width: 50%;
+    }
+}
+
+.sub-page-wrap {
+    padding: 80px 0;
+}
